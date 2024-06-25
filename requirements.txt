@@ -1,0 +1,7 @@
+selenium
+openai
+python-dotenv
+doctest
+pytz
+python-dateutil
+requests
